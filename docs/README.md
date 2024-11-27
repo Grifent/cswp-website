@@ -1,4 +1,8 @@
-# CS-Wild-Places
+# Highlights
+- High resolution lidar scans captured from ground and aerial perspectives in 4 unique forest environments in Queensland, Australia.
+- ...
+- 
+
 # H1
 ## H2
 ### H3
